@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage Images -->
+  <url>
+    <loc>https://saileelatravel.com/</loc>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/s1_logo.png</image:loc>
+      <image:title>Sai Leela Tour &amp; Travel Logo</image:title>
+      <image:caption>Car Rental and Taxi Service in Bardoli Surat</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/kiaCarens.png</image:loc>
+      <image:title>Kia Carens Car Rental in Bardoli</image:title>
+      <image:caption>Family car rental service in Bardoli Surat</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/Innova.png</image:loc>
+      <image:title>Toyota Innova Taxi Service</image:title>
+      <image:caption>Outstation Innova car rental from Bardoli</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/Ertiga.png</image:loc>
+      <image:title>Maruti Ertiga Car Rental</image:title>
+      <image:caption>Affordable taxi service in Bardoli Gujarat</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Gallery Images -->
+  <url>
+    <loc>https://saileelatravel.com/gallery</loc>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/front.jpg</image:loc>
+      <image:title>Kia Carens Front View</image:title>
+      <image:caption>Kia Carens car rental Bardoli</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/rear.jpg</image:loc>
+      <image:title>Kia Carens Rear View</image:title>
+      <image:caption>Luxury family car rental in Surat</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/interior1.jpg</image:loc>
+      <image:title>Kia Carens Interior</image:title>
+      <image:caption>Comfortable interior for long journeys</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/interior2.jpg</image:loc>
+      <image:title>Premium Car Interior</image:title>
+      <image:caption>Clean and spacious taxi interiors</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://saileelatravel.com/assets/interior3.jpg</image:loc>
+      <image:title>Luxury Taxi Interior</image:title>
+      <image:caption>Safe and comfortable travel experience</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
